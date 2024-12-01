@@ -1,20 +1,29 @@
-### Project Summary: FarmTemperatureWarningSystem
+### FarmTemperatureWarningSystem  
 
-**FarmTemperatureWarningSystem** is an application designed to help farmers monitor and manage temperature levels in their farms, ensuring an optimal environment for crops and livestock. The main features of the system include:
+#### Introduction  
+**FarmTemperatureWarningSystem** is a smart application developed to help farmers monitor and control the temperature in their farms. The system ensures an optimal environment for crops and livestock by providing real-time temperature tracking, alerts, and device control. This project is designed to improve farm management efficiency and reduce risks related to unsuitable environmental conditions.
 
-1. **Temperature Alerts:**
-   - Users can set desired temperature thresholds.
-   - The app automatically compares real-time temperatures with the thresholds and provides alerts when the limits are exceeded.
+#### Features  
+1. **Temperature Alerts:**  
+   - Allows users to set temperature thresholds.  
+   - Automatically compares real-time temperatures with user-defined limits and sends alerts when thresholds are exceeded.  
 
-2. **Alert Device Control:**
-   - Turn on/off warning lights through the mobile app.
-   - Schedule automatic on/off times for the alert devices.
+2. **Alert Device Control:**  
+   - Users can remotely turn on/off warning lights through the mobile app.  
+   - Option to schedule automatic on/off times for alert devices.  
 
-3. **User Interface:**
-   - A HomeScreen displaying current temperatures and control options.
-   - Functionality to input desired temperature limits.
+3. **User-Friendly Interface:**  
+   - Displays current temperature and control options on the HomeScreen.  
+   - Provides an easy way to set and adjust temperature limits.  
 
-4. **Technologies Used:**
-   - **Front-end:** React Native for seamless cross-platform support on web and mobile.
-   - **Back-end:** Node.js (with Express.js) to handle data processing and application logic.
-   - **IoT Integration:** Arduino Code combined with a DHT11 sensor and HC-05 bluetooth module for real-time temperature data collection.
+#### Technologies Used  
+1. **Front-end:**  
+   - Built using **React Native**, offering seamless cross-platform support for web and mobile applications.  
+
+2. **Back-end:**  
+   - Developed with **Node.js** and **Express.js**, ensuring efficient data processing and application logic.  
+
+3. **IoT Integration:**  
+   - Utilizes **Arduino Code** and the **DHT11 sensor** to collect real-time temperature data and integrate it into the system.  
+
+This project provides farmers with an innovative tool to effectively manage their farms, ensuring better productivity and environmental safety.
