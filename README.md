@@ -24,6 +24,5 @@
    - Developed with **Node.js** and **Express.js**, ensuring efficient data processing and application logic.  
 
 3. **IoT Integration:**  
-   - Utilizes **Arduino Code** and the **DHT11 sensor** to collect real-time temperature data and integrate it into the system.  
-
-This project provides farmers with an innovative tool to effectively manage their farms, ensuring better productivity and environmental safety.
+   - Utilizes **Arduino Code** and the **DHT11 sensor** to collect real-time temperature data.  
+   - Includes the **HC-05 Bluetooth module** for wireless communication between devices and the application.  
